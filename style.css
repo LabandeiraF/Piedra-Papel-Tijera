@@ -1,0 +1,52 @@
+#titulo{
+  text-shadow: 3px 2px 1px #9daef5;
+  font-family: Arial;
+  color: #000000;
+  font-size: 120px;
+  
+}
+
+#jugador1{
+  margin-right: 25rem;
+  padding: 0;
+}
+
+#jugador2{
+  margin-left: 25rem;
+}
+
+
+body {
+      font-family: Arial;
+     text-align: center;
+      background-color: chartreuse;
+
+    }
+
+div.game{
+    border-style: solid;
+    border-radius: 3em;
+    box-shadow:  2em 3em 2em;
+    width: 40%;
+    margin: auto;
+   display: block;
+}
+
+button.modifi_boton{
+    background-image: -webkit-linear-gradient(top, white, #2079b0);
+  background-image: -moz-linear-gradient(top,white, #2079b0);
+  background-image: -ms-linear-gradient(top, white, #2079b0);
+  background-image: -o-linear-gradient(top white, #2079b0);
+  background-image: linear-gradient(to bottom,white, #2079b0);
+    text-shadow: 3px 2px 1px #9daef5;
+  -webkit-box-shadow: 6px 5px 24px #666666;
+  -moz-box-shadow: 6px 5px 24px #666666;
+  box-shadow: 6px 5px 24px #666666;
+    font-family: Arial;
+  color: #000000;
+  font-size: 27px;
+  text-decoration: none;
+}
+
+
+
